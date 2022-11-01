@@ -1,0 +1,12 @@
+git clone
+cd "Project"
+// git branch
+git checkout -b develop_{}
+...
+...
+...
+// git status
+git add .
+git commit -m "Done smth"
+// git log
+git push
